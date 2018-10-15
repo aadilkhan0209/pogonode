@@ -1,0 +1,11 @@
+engines:
+    duplication:
+        enabled: false
+    fixme:
+        enabled: true
+    tslint:
+        enabled: true
+        channel: beta
+
+exclude_paths:
+    - src/debug.js

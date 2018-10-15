@@ -1,0 +1,13 @@
+.env
+.npm
+node_modules
+certs
+build
+.publish
+data
+
+pogobuf
+node-pogo-signature
+
+*.log
+*.req.raw.bin
